@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lea</h1>
-<h3 align="center">A programming student with a passion for web design and development</h3>
+<h3 align="center">A programmer with a passion for web design and development</h3>
 
 - 📫 How to reach me **odinalea@gmail.com**
 
